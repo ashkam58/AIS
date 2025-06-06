@@ -1,0 +1,29 @@
+.adaptive-quiz {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.status-bar {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.question-form label {
+  font-size: 1.2em;
+}
+
+.question-form input {
+  width: 80px;
+  margin-left: 5px;
+}
+
+.feedback {
+  margin-top: 10px;
+  font-weight: bold;
+}
