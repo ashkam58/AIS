@@ -1,4 +1,7 @@
+# AIS Learning Platform
 
+This project contains a small React example implementing an adaptive math quiz. The
+component is modular so it can be reused in other projects.
 
 ## Usage
 
@@ -11,4 +14,7 @@ import AdaptiveQuiz from './components/AdaptiveQuiz/AdaptiveQuiz';
 function App() {
   return <AdaptiveQuiz />;
 }
+```
 
+3. The quiz adjusts its difficulty based on the student's streak and shows a score
+and level display. Styling is kept in `AdaptiveQuiz.css`.
