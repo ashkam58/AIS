@@ -1,0 +1,23 @@
+{
+  "name": "ais-learning-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive educational website with adaptive math activities",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.2",
+    "prop-types": "^15.8.1",
+    "react-chartjs-2": "^5.2.0",
+    "chart.js": "^4.4.0"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  }
+}
