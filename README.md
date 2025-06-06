@@ -1,7 +1,11 @@
 # AIS Learning Platform
 
-This project contains a small React example implementing an adaptive math quiz. The
-component is modular so it can be reused in other projects.
+This project contains a small React example implementing an adaptive math quiz. The component is modular so it can be reused in other projects.
+
+## Setup
+
+1. Run `npm install` to install all dependencies listed in `package.json`.
+2. Start the development server with `npm start`.
 
 ## Usage
 
@@ -16,5 +20,4 @@ function App() {
 }
 ```
 
-3. The quiz adjusts its difficulty based on the student's streak and shows a score
-and level display. Styling is kept in `AdaptiveQuiz.css`.
+3. The quiz adjusts its difficulty based on the student's streak and shows a score and level display. Styling is kept in `AdaptiveQuiz.css`.
